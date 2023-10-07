@@ -2,7 +2,7 @@
 bank system with source code and testing code(integration test, unit test)
 
 
-Go to this website and intigrate your device
+Go to this website and intigrate your device to run testing codes
 
    https://docs.pytest.org/en/7.4.x/getting-started.html#getstarted
 
